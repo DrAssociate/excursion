@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #111;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+p {
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+a {
+    color: aquamarine;
+}
+
+.phone-sec h1 {
+    font-size: 50px;
+    font-weight: 400;
+    display: block;
+    margin: 1em;
+}
+
+.phone-sec a {
+    font-size: 16px;
+}
+
+.phone-video {
+    display: block;
+    margin-top: 1em;
+}
+
+.travel h2 {
+    font-weight: 300;
+    font-size: 42px;
+    padding: 1em;
+}
+
+.travel p {
+    color: rgb(131, 131, 131);
+    font-size: 21px;
+}
+
+.travel img {
+    margin: 1em;
+}
+
+.coming h2 {
+    font-size: 42px;
+    font-weight: 300;
+    margin: 1em;
+}
+
+.copyright h3 {
+    text-align: right;
+    color:rgb(131, 131, 131);
+    margin: 1em;
+}
